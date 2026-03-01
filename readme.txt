@@ -1,0 +1,1 @@
+Install Packages pip install discord.py
