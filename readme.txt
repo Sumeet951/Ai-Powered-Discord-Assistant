@@ -4,3 +4,6 @@ LangChain Integrate Packages
  pip install langchain
  #Recent Information
  pip install tavily-python
+ Image Generation
+ pip install langchain-openai
+
